@@ -3,9 +3,7 @@
 - 🌱 I’m currently learning many things about web developing 
 - 👯 I’m looking to collaborate on web app applications and open-source projects
 - 
-- 
-- 
-- 
+
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farrokhPeyGhayyem)](https://github.com/anuraghazra/github-readme-stats)
 - thanks for visiting me !
 <!--
