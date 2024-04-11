@@ -19,7 +19,6 @@ Skills: PHP/Laravel/Livewire/Js/Graphql/Rest Api/Mysql/TailWind/Bootstrap/Design
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/farrokhPeyGhayyem/contributions?format=svg&private=true)
 
-![GitHub metrics](https://metrics.lecoq.io/farrokhPeyGhayyem)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=farrokhPeyGhayyem)  
 
