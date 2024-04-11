@@ -7,7 +7,7 @@
 ### - 🌱 Constant Learner: I thrive on learning new technologies and enhancing my skills to stay ahead in the ever-evolving tech landscape.
 ### - 🚀 Problem Solver: I enjoy tackling complex challenges and transforming ideas into functional solutions.
 ## Skills & Expertise
-- 🔭#PHP / #Laravel / #Livewire / #Js / #Graphql / #Rest Api / #Mysql / #TailWind / #Bootstrap / #Design-patterns / #Css /...
+- 🔭 Experienced in PHP, Laravel, Livewire, JavaScript, GraphQL, REST API, MySQL, TailWind, Bootstrap, Design Patterns, CSS, and more. Check out my GitHub repo for details!
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=farrokhPeyGhayyem&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
