@@ -11,6 +11,6 @@ Skills & Expertise
 
 [//]: # (![GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=farrokhPeyGhayyem&show_icons=true&count_private=false&#41;)
 
-!                                [GitHub streak stats](https://streak-stats.demolab.com/?user=farrokhPeyGhayyem)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=farrokhPeyGhayyem)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@11.12.0/icons/github.svg' alt='github' height='40'>](https://github.com/farrokhPeyGhayyem)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@11.12.0/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/farrokhghayyem/)
 
