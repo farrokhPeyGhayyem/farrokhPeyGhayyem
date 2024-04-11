@@ -7,7 +7,7 @@ I'm FarrokhPey from Iran , and I use PHP and Laravel framework for developing we
 
 Skills: #PHP / #Laravel / #Livewire / #Js / #Graphql / #Rest Api / #Mysql / #TailWind / #Bootstrap / #Design #patterns / #Css /...
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=farrokhPeyGhayyem)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=farrokhPeyGhayyem&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=farrokhPeyGhayyem&show_icons=true&count_private=false)
 
