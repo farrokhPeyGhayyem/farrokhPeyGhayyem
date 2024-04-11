@@ -5,7 +5,7 @@
 I'm FarrokhPey from Iran , and I use PHP and Laravel framework for developing web applications and working by teams to earn soulotion for their imagins.
 - 🔭 I’m currently working on laravel projects.
 
-Skills: #PHP / #Laravel / #Livewire / #Js / #Graphql / #Rest Api / #Mysql / #TailWind / #Bootstrap / #Design #patterns / #Css /...
+Skills: #PHP / #Laravel / #Livewire / #Js / #Graphql / #Rest Api / #Mysql / #TailWind / #Bootstrap / #Design-patterns / #Css /...
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=farrokhPeyGhayyem&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
