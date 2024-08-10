@@ -1,7 +1,6 @@
 ### 👋 Hi there! I'm FarrokhPey,
 ## a passionate Laravel developer with several years of experience crafting robust web applications.
 
-![Laravel Developer](https://media.licdn.com/dms/image/D5616AQGxckelAL11rQ/profile-displaybackgroundimage-shrink_350_1400/0/1706887256970?e=1718236800&v=beta&t=Gv_Oqd2I8-y2sguLbxeHTy2Z1el5WtjLol1gLEjsIjM)
 ## About Me
 ### - 💻 Laravel Enthusiast: I specialize in Laravel development, leveraging its powerful features to build scalable and efficient applications.
 ### - 🌱 Constant Learner: I thrive on learning new technologies and enhancing my skills to stay ahead in the ever-evolving tech landscape.
